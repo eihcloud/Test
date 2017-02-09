@@ -1,6 +1,7 @@
 package test;
 
 /**
+ *
  * @author eih
  */
 public class Test {
@@ -9,10 +10,7 @@ public class Test {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Test.hello();
+        // TODO code application logic here
     }
     
-    public static void hello() {
-        System.out.println("Hallo Welt");
-    }
 }
