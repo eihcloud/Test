@@ -13,6 +13,6 @@ public class Test {
     }
     
     public static void hello() {
-        System.out.println("Hallo Welt");
+        System.out.println("Hallo Git");
     }
 }
